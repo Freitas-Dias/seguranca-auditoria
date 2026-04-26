@@ -11,7 +11,7 @@
 
 ## 🎯 Objetivo
 
-Demonstrar na prática como funciona um ataque de **phishing**, identificando os gatilhos psicológicos que levam pessoas a clicar em links maliciosos — mesmo quando conhecem o remetente.
+Demonstrar na prática como funciona um ataque de **phishing**, identificando os gatilhos psicológicos que levam pessoas a clicar em links maliciosos, mesmo quando conhecem o remetente.
 
 A simulação é 100% educacional. Nenhum dado é coletado, armazenado ou transmitido.
 
